@@ -1,0 +1,16 @@
+airport_code,airport_name,city,country,domestic,lat,lon
+DAC,Hazrat Shahjalal Intl,Dhaka,Bangladesh,True,23.8433,90.3978
+CGP,Shah Amanat Intl,Chittagong,Bangladesh,True,22.2496,91.8133
+ZYL,Osmani Intl,Sylhet,Bangladesh,True,24.9633,91.8667
+CXB,Cox's Bazar Airport,Cox's Bazar,Bangladesh,True,21.4522,91.9639
+JSR,Jessore Airport,Jessore,Bangladesh,True,23.1838,89.1608
+RJH,Shah Makhdum Airport,Rajshahi,Bangladesh,True,24.4372,88.6161
+SPD,Saidpur Airport,Saidpur,Bangladesh,True,25.7616,88.9088
+BZL,Barisal Airport,Barisal,Bangladesh,True,22.801,90.3013
+SIN,Changi Airport,Singapore,Singapore,False,1.3644,103.9915
+DXB,Dubai Intl,Dubai,UAE,False,25.2532,55.3657
+DOH,Hamad Intl,Doha,Qatar,False,25.2731,51.6081
+BKK,Suvarnabhumi,Bangkok,Thailand,False,13.69,100.7501
+KUL,Kuala Lumpur Intl,Kuala Lumpur,Malaysia,False,2.7456,101.7099
+CCU,Netaji Subhas Chandra Bose Intl,Kolkata,India,False,22.6547,88.4467
+DEL,Indira Gandhi Intl,Delhi,India,False,28.5562,77.1
